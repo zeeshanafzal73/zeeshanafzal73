@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshanafzal73
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack develpor
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by contacting my email zeeshan.afzal.37051@gmail.com
 
